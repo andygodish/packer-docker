@@ -54,7 +54,7 @@ variable "template_description" {
 
 variable "template_name" {
   type    = string
-  default = "Ubuntu-22-Template"
+  default = "Ubuntu-2204-Template"
 }
 
 variable "ubuntu_image" {
