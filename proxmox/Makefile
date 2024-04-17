@@ -1,4 +1,4 @@
-.PHONY: ubuntu2204 ubuntu2204-debug
+.PHONY: ubuntu2204 ubuntu2204-debug rocky9
 
 rocky9:
 	packer init rocky9/packer.pkr.hcl
